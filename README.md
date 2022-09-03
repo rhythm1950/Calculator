@@ -21,5 +21,5 @@ This is a simple calculator. I have developed it using HTML, CSS, JavaScript.
 
 
 ### Website Preview:
-<img src="./calculator.png" alt="calculator">
+<img src="./calculator.PNG" alt="calculator">
 
